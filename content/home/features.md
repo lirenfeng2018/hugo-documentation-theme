@@ -16,5 +16,5 @@ feature:
   - icon: list-alt
     icon_pack: fas
     name: Personal Notebook
-    description: For yourself
+    description: For myself
 ---
